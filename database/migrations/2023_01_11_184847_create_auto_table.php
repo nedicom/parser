@@ -14,7 +14,7 @@ return new class extends Migration
     public function up()
     {
         Schema::create('auto', function (Blueprint $table) {
-            $table->id()->default('');
+            $table->id()->nullable();
             $table->string('mark')->default('');
             $table->string('model')->default('');
             $table->string('generation')->default('');

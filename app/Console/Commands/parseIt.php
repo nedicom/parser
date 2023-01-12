@@ -13,7 +13,7 @@ class parseIt extends Command{
     public function handle(){
 
         //getting path and checking it
-        $path = $this->ask('Which is path to file? Now you here - '.__DIR__);
+        $path = $this->ask('Which is path to file? Default src is "storage/app"');
             if($path == ''){
                 $path = 'data.xml';
             };
