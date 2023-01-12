@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<auto-catalog>
+  <offers>
+    <offer>
+      <id>3333</id>
+      <mark>Tesla</mark>
+      <model>G-Класс</model>
+      <generation>II (W463) (1990-2006)</generation>
+      <year>2005</year>
+      <run>127632</run>
+      <color>Серебристый</color>
+      <body-type>Внедорожник 5 дв.</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Автоматическая</transmission>
+      <gear-type>Полный</gear-type>
+      <generation_id>45678</generation_id>
+    </offer>
+    <offer>
+      <id>44444</id>
+      <mark>Mercedes</mark>
+      <model>G-Класс</model>
+      <generation>II (W463) (1990-2006)</generation>
+      <year>2005</year>
+      <run>127632</run>
+      <color>Серебристый</color>
+      <body-type>Внедорожник 5 дв.</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Автоматическая</transmission>
+      <gear-type>Полный</gear-type>
+      <generation_id>4760268</generation_id>
+    </offer>
+    <offer>
+<id>402501</id>
+<mark>Волжанин</mark>
+<model>x</model>
+<generation/>
+<year>2012</year>
+<run>192500</run>
+<color>Зеленый</color>
+<body-type>Специальный</body-type>
+<engine-type>Дизель</engine-type>
+<transmission>Механическая</transmission>
+<gear-type>Задний</gear-type>
+<generation_id/>
+</offer>
+<offer>
+<id>412873</id>
+<mark>Tesla</mark>
+<model>CR-V</model>
+<generation>V (2016-2022)</generation>
+<year>2017</year>
+<run>47751</run>
+<color>Серебристый</color>
+<body-type>Внедорожник 5 дв.</body-type>
+<engine-type>Бензин</engine-type>
+<transmission>Вариатор</transmission>
+<gear-type>Полный</gear-type>
+<generation_id>20875803</generation_id>
+</offer>
+  </offers>
+</auto-catalog>
